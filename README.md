@@ -120,6 +120,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Deep Neural Skill Assessment and Transfer: Application to Robotic Surgery Training | **IROS 2021** | [Paper](http://www.ece.ualberta.ca/~tbs/pmwiki/pdf/IROS-Soleymani-2021.pdf) |
 | Adaptive Surgical Robotic Training Using Real-Time Stylistic Behavior Feedback Through Haptic Cues | **CoRR 2021** | [Paper](https://arxiv.org/pdf/2101.00097) |
 | Robot-Assisted Training in Laparoscopy Using Deep Reinforcement Learning | **IEEE RAL 2019** | [Paper](https://www.semanticscholar.org/paper/Robot-Assisted-Training-in-Laparoscopy-Using-Deep-Tan-Chng/f0df16721c94e57d60d1b4ca53c7755caf22626b) |
 | Towards Skill Transfer via Learning-Based Guidance in Human-Robot Interaction: An Application to Orthopaedic Surgical Drilling Skill | **JINT 2020** | [Paper](https://link.springer.com/article/10.1007/s10846-019-01082-2) |
