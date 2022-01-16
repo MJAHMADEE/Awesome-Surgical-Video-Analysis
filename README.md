@@ -217,6 +217,7 @@ TO DO:
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2103.09276.pdf) |
+| Evaluation of Artificial Intelligence–Based Intraoperative Guidance Tools for Phacoemulsification Cataract Surgery | **JAMA 2022** | [Paper](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2787889) |
 | One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
 | A Kinematic Bottleneck Approach For Pose Regression of Flexible Surgical Instruments directly from Images | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.00586) |
 | Simulation-to-real domain adaptation with teacher–student learning for endoscopic instrument segmentation | **IJCARS 2021** | [Paper](https://link.springer.com/article/10.1007/s11548-021-02383-4) | 
