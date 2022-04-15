@@ -137,6 +137,9 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Self-supervised representation learning for surgical activity recognition | **IJCARS 2021** | [Paper](https://link.springer.com/content/pdf/10.1007/s11548-021-02493-z.pdf) |
+| Surgical Workflow Anticipation Using Instrument Interaction | **MICCAI 2021** | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_59) |
+| Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2109.14956) |
 | OperA: Attention-Regularized Transformers for Surgical Phase Recognition | **MICCAI 2021** | [Paper](https://arxiv.org/abs/2103.03873) |
 | Temporal Memory Relation Network for Workflow Recognition from Surgical Video | **TMI 2021** | [Paper](https://arxiv.org/abs/2103.16327) [Code](https://github.com/YuemingJin/TMRNet) |
 | Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass | **IJCARS 2021** | [Paper](https://arxiv.org/abs/2102.12218v1) |
@@ -219,6 +222,8 @@ TO DO:
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | ARAS-Farabi Experimental Framework for Skill Assessment in Capsulorhexis Surgery | **ICRoM 2021** | [Paper](https://ieeexplore.ieee.org/document/9663494) |
+| hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_38) |
+| Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26) |
 | Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2103.09276.pdf) |
 | Evaluation of Artificial Intelligence–Based Intraoperative Guidance Tools for Phacoemulsification Cataract Surgery | **JAMA 2022** | [Paper](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2787889) |
 | One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
