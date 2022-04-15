@@ -59,6 +59,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Machine learning for technical skill assessment in surgery: a systematic review | **NPJ 2022** | [Paper](https://www.nature.com/articles/s41746-022-00566-0) |
 | A Review on Deep Learning in Minimally Invasive Surgery | **IEEE Access 2021** | [Paper](https://ieeexplore.ieee.org/abstract/document/9386091) |
 | Deep neural networks for the assessment of surgical skills: A systematic review | **IEEE Access 2021** | [Paper](https://arxiv.org/pdf/2103.05113) |
 | Current methods for assessing technical skill in cataract surgery | **JCRS 2021** | [Paper](https://journals.lww.com/jcrs/Abstract/2021/02000/Current_methods_for_assessing_technical_skill_in.18.aspx) |
@@ -73,6 +74,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2109.14956) |
 | Development and Validation of a 3-Dimensional Convolutional Neural Network for Automatic Surgical Skill Assessment Based on Spatiotemporal Video Analysis | **JAMA 2021** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782991?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamanetworkopen.2021.20786) |
 | Surgical Skill Evaluation From Robot-Assisted Surgery Recordings | **ISMR 2021** | [Paper](https://www.researchgate.net/publication/356471297_Surgical_Skill_Evaluation_From_Robot-Assisted_Surgery_Recordings)|
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) [Code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) |
@@ -216,6 +218,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| ARAS-Farabi Experimental Framework for Skill Assessment in Capsulorhexis Surgery | **ICRoM 2021** | [Paper](https://ieeexplore.ieee.org/document/9663494) |
 | Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2103.09276.pdf) |
 | Evaluation of Artificial Intelligence–Based Intraoperative Guidance Tools for Phacoemulsification Cataract Surgery | **JAMA 2022** | [Paper](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2787889) |
 | One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video | **ICRA 2021** | [Paper](https://arxiv.org/abs/2103.12988) |
