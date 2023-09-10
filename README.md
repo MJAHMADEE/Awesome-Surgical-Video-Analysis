@@ -221,6 +221,8 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| SLiMe: Segment Like Me, which can segment an image according to a given sample by leveraging diffusion models | **Arxiv 2023** | [Paper](https://arxiv.org/abs/2309.03179) [Video](https://www.youtube.com/watch?v=Bwy-SS2ADEI) |
+| Surgical Instrument Tracking for Capsulorhexis Eye Surgery Based on Siamese Networks | **ICRoM 2022** | [Paper](https://ieeexplore.ieee.org/document/10025355) |
 | ARAS-Farabi Experimental Framework for Skill Assessment in Capsulorhexis Surgery | **ICRoM 2021** | [Paper](https://ieeexplore.ieee.org/document/9663494) |
 | hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_38) |
 | Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26) |
