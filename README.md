@@ -74,6 +74,7 @@ TO DO:
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Use of Machine Learning to Assess Cataract Surgery Skill Level With Tool Detection | **Ophthalmol** | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9700302/) |
 | Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2109.14956) |
 | Development and Validation of a 3-Dimensional Convolutional Neural Network for Automatic Surgical Skill Assessment Based on Spatiotemporal Video Analysis | **JAMA 2021** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782991?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamanetworkopen.2021.20786) |
 | Surgical Skill Evaluation From Robot-Assisted Surgery Recordings | **ISMR 2021** | [Paper](https://www.researchgate.net/publication/356471297_Surgical_Skill_Evaluation_From_Robot-Assisted_Surgery_Recordings)|
